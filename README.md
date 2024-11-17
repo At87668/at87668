@@ -3,5 +3,5 @@
 ### I love Minecraft!
 <div text-align:"center">
   <br>
-<h4>My main plugins: [MinerTrack](https://github.com/At87668/MinerTrack) | [PlayerDataRollback](https://github.com/At87668/PlayerDataRollback)</h4>
+#### My main plugins: [MinerTrack](https://github.com/At87668/MinerTrack) | [PlayerDataRollback](https://github.com/At87668/PlayerDataRollback)
 </div>
