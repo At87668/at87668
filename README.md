@@ -4,5 +4,5 @@
 
 <div text-align:"center">
   <br>
-  <h4>My main plugins: <a href="[https://github.com/At87668/MinerTrack]">MinerTrack</a> | <a href="[https://github.com/At87668/PlayerDataRollback]">PlayerDataRollback</a></h4>
+  <h4>My main plugins: <a href="https://github.com/At87668/MinerTrack">MinerTrack</a> | <a href="https://github.com/At87668/PlayerDataRollback">PlayerDataRollback</a></h4>
 </div>
