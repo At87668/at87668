@@ -3,4 +3,4 @@
 ### I love Minecraft!
 
 <br>
-<h4 style="text-align:center;">My main plugins: <a href="https://github.com/At87668/MinerTrack">MinerTrack</a> | <a href="https://github.com/At87668/PlayerDataRollback">PlayerDataRollback</a></h4>
+[![At87668's github stats](https://github-readme-stats.vercel.app/api?username=At87668 "![At87668's github stats")](https://github.com/At87668)
