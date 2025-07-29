@@ -9,14 +9,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=At87668&count_private=true&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At87668&layout=compact&layout=donut-vertical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At87668&layout=donut-vertical"/>
 </div>
 
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </div>
 
 <br />
@@ -53,15 +53,15 @@
 <h2 align="center">🌍 Find Me</h2>
 <div align="center">
   <a href="https://github.com/At87668" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://modrinth.com/user/Author87668" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
+    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"/>
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
