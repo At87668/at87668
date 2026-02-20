@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-rho-two-79.vercel.app/api?username=At87668&count_private=true&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At87668&layout=donut&hide=javascript,html,css"/>
+  <img src="https://github-readme-stats-rho-two-79.vercel.app/api/top-langs/?username=At87668&layout=donut&hide=javascript,html,css,php,hack"/>
 </div>
 
 
